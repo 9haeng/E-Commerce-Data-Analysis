@@ -38,6 +38,8 @@ Retention 분석
 ![image](https://user-images.githubusercontent.com/70729822/193860158-6530d97a-a771-4236-89a0-306da5c2467e.png)
 ![image](https://user-images.githubusercontent.com/70729822/193860182-a9f19bd2-fade-467d-87e7-8962603928ae.png)
 - 데이터 분석 시각화
+
+
 ![image](https://user-images.githubusercontent.com/70729822/193860459-542cb4be-69a4-42c2-8855-2534d782262f.png)
 - 분석을 통한 가상의 의사결정 해보기
 
